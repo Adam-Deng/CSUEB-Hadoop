@@ -1,0 +1,14 @@
+a
+an
+and
+but
+is
+or
+the
+to
+\.
+\,
+\:
+\;
+\(
+\)
